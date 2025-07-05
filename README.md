@@ -40,7 +40,7 @@ During the preparation of related research, the authors used the AI tool **ChatG
 This dataset is shared for academic and research purposes only. Please check exchange guidelines and data usage policies before using in production systems.
 
 ## Dataset Source:
-The dataset was extracted using the Zerodha Kite Connect API under a valid paid subscription held by the author.
+The dataset (Date, Time, Open, High, Low and Close) was extracted using the Zerodha Kite Connect API under a valid paid subscription held by the author.
 
 ## Disclaimer:
 While every effort has been made to ensure the accuracy and reliability of the data, it is provided as is and should be used strictly for academic and research purposes only. The author does not accept any liability or responsibility for any losses, damages, or consequences arising from the use of this dataset in live trading or commercial applications.
